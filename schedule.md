@@ -1,4 +1,4 @@
-# Schedule for Week 5
+# Schedule for (new) Week 1
 
 | Block                 |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   |  Saturday  |
 | :-------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
